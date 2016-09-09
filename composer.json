@@ -1,0 +1,13 @@
+{
+    "name": "smn/session",
+    "description": "Mie classi su gestione sessioni",
+    "autoload": {
+        "psr-4": {
+            "smn\\pheeca\\Session\\": "src/"
+        },
+        "classmap": {
+            "smn\\pheeca\\Session": "/src/Session.php"
+        }
+    }
+}
+
